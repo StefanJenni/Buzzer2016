@@ -15,6 +15,6 @@ DetailViewController zeigt das mit dem Buzzer selektierte Bild im Grossformat an
 
 Die Software wurde von Stefan und Manuel Jenni in ihrer Freizeit programmiert. Ziel war es, mal etwas in Xcode zu realisieren
 
-Der Programmcode darf von anderen Interessierten frei verwendet werden und an die eigenen Bedürfnisse angepasst werden.
+Der Programmcode darf von anderen Interessierten frei verwendet werden und an die eigenen Bedürfnisse angepasst werden. Das Bild- und Soundmaterial dient nur als Beispiel und muss durch eigenes Material ersetzt werden.
 
 Feedbacks oder Verbesserungsvorschläge sind willkommen.
